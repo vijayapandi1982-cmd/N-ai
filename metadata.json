@@ -1,0 +1,6 @@
+{
+  "name": "N ai",
+  "description": "A highly polished, personal AI assistant with dynamic chat history, custom styling, search grounding, and system instructions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
